@@ -1,0 +1,5 @@
+name: Jotundal
+version: @version@
+author: Ninjoh
+api-version: 1.20
+main: com.ironveilrp.jotundal.Jotundal
